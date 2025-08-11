@@ -1,3 +1,2 @@
-# Innovedex 2025
-
-**Team cicada**
+# Team Cicada
+innovedex2025
