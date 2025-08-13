@@ -48,10 +48,12 @@ Here, I’ve published the **Fusion 360** and **STEP** files in the hope that so
 | Servo cable extender | 4x |  | [Link]() |
 | Arduino | 1x |  | [Link]() |
 | Arduino V5 shield | 1x |  | [Link]() |
-| Cable wrap | 1x |  | [Link]() |
-| Camera | 1x | (Type to be added) | [Link]() |
-| Superglue | - |  | [Link]() |
-| Hot glue | - |  | [Link]() |
+| Cable wrap | 1x |  | |
+| zip ties | | 1x | | | | |
+| oker b08z Camera | 1x | | [Link]() |
+| Aruidno shield power | | 1x | | 6v 3A | | |
+| Superglue | - |  | |
+| Hot glue | - |  | |
 
 ---
 
@@ -67,9 +69,9 @@ Here, I’ve published the **Fusion 360** and **STEP** files in the hope that so
 
 ## 🛠 Lessons Learned
 
-- Choosing an **uncommon but effective mechanical design** can give a major competitive advantage.
-- Iterating **multiple times before the event** allowed for better tuning and reliability.
-- Publishing designs can help the community **improve and evolve** robotics solutions.
+- Us choosing an **uncommon but effective mechanical design** gave our team a major competitive advantage.
+- Iterating **multiple times before the event** allowed for better mechanical reliability and proof testing.
+- In competition, **not being the fastest might make you lose sometimes, but being unrealiable will make you lose every time.**
 
 ---
 
