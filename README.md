@@ -17,10 +17,10 @@ We won the **Grand Prize** of **10,000 Baht** 🏆 and will be using it to spons
 
 ## 📐 Design & Engineering
 
-I (**Captain**) went through **three iterations** of designs before settling on the **SACRA arm** concept for its **easy kinematics and tuning**.  
+**Captain** went through **three iterations** of designs before settling on the **SACRA arm** concept for its **easy kinematics and tuning**.  
 This proved extremely advantageous, as no other teams used the SACRA arm design.  
 
-I even saw **five teams** from different schools using the same competitive design and code — which we were able to outperform.
+We even saw **five teams** from different schools using the same competitive design and code — which we were able to outperform.
 
 Here, I’ve published the **Fusion 360** and **STEP** files in the hope that someone will improve upon my designs further.
 
