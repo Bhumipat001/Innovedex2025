@@ -63,7 +63,7 @@ Here, I’ve published the **Fusion 360** and **STEP** files in the hope that so
 ![Robot Front View](assets/front_view.png)  
 *Front view of the SACRA arm robot.*
 
-![Robot Side View](assets/side_view.png)  
+![Robot Side View](https://cdn.bhumipat.com/images/Inovedex2025/RobotSideView.jpg)  
 *Side view showing the servo placements.*
 
 ---
