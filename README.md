@@ -2,7 +2,7 @@
 innovedex2025
 # 🤖 Inovedex 2025 Robotics Competition
 
-![Inovedex Logo](https://github.com/user-attachments/assets/23f24a15-c588-4dc0-b51d-423ec6f09ec1) <!-- Replace with actual logo or competition image -->
+![Inovedex Logo]<img width="954" height="261" alt="Image" src="https://github.com/user-attachments/assets/3962c6e6-d7fb-4334-a9fa-ab1b72406f98" /> <!-- Replace with actual logo or competition image -->
 
 ---
 
