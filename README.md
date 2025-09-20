@@ -18,8 +18,8 @@ We won the **Grand Prize** of **10,000 Baht** 🏆 and will be using it to spons
 
 ## 📐 Design & Engineering
 
-**Captain** went through **three iterations** of designs before settling on the **SACRA arm** concept for its **easy kinematics and tuning**.  
-This proved extremely advantageous, as no other teams used the SACRA arm design.  
+**Captain** went through **three iterations** of designs before settling on the **SCARA arm** concept for its **easy kinematics and tuning**.  
+This proved extremely advantageous, as no other teams used the SCARA arm design.  
 
 We even saw **five teams** from different schools using the same competitive design and code — which we were able to outperform.
 
@@ -29,8 +29,8 @@ Here, I’ve published the **Fusion 360** and **STEP** files in the hope that so
 
 ### 📂 Project Files
 
-- **Fusion 360 File:** [SACRA_Arm.f3d](files/SACRA_Arm.f3d) <!-- Replace with actual file path -->
-- **STEP File:** [SACRA_Arm.step](files/SACRA_Arm.step)
+- **Fusion 360 File:** [SCARA_Arm.f3d](files/SCARA_Arm.f3d) <!-- Replace with actual file path -->
+- **STEP File:** [SCARA_Arm.step](files/SCARAF_Arm.step)
 
 ---
 
@@ -61,7 +61,7 @@ Here, I’ve published the **Fusion 360** and **STEP** files in the hope that so
 
 ## 📸 Project Images
 
-*Front view of the SACRA arm robot.*
+*Front view of the SCARA arm robot.*
 ![Robot Front View](https://cdn.bhumipat.com/images/Inovedex2025/RobotFrontView.jpg)  
 
 *Side view showing the servo placements.*
