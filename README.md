@@ -29,8 +29,7 @@ Here, I’ve published the **Fusion 360** and **STEP** files in the hope that so
 
 ### 📂 Project Files
 
-- **Fusion 360 File:** [SCARA_Arm.f3d](files/SCARA_Arm.f3d) <!-- Replace with actual file path -->
-- **STEP File:** [SCARA_Arm.step](files/SCARAF_Arm.step)
+[Fusion 360 File and STEP File Repository](https://github.com/kapitam/Innovedex-SCARA-Model) <!-- Replace with actual file path -->
 
 ---
 
