@@ -38,7 +38,7 @@ Here, I’ve published the **Fusion 360** and **STEP** files in the hope that so
 
 | Item | Quantity | Notes | AliExpress Link |
 |------|----------|-------|-----------------|
-| 3M 12mm screws | 20x |  | [Link]() |
+| 3M 12mm screws | 20x |  | [Link](https://th.aliexpress.com/item/1005005397705409.html?algo_pvid=826e6dbe-cb55-4ec7-b819-8020f8132790&algo_exp_id=826e6dbe-cb55-4ec7-b819-8020f8132790-1&pdp_ext_f=%7B"order"%3A"35"%2C"eval"%3A"1"%2C"fromPage"%3A"search"%7D&pdp_npi=6%40dis%21THB%2133.23%2126.25%21%21%217.19%215.68%21%402101584917584812038253008eb854%2112000032899224228%21sea%21TH%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A5284e86e%3Bm03_new_user%3A-29895&curPageLogUid=0NCbRgq2UuFg&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005397705409%7C_p_origin_prod%3A&utm_medium=cpa&af=7vn49pda4epX&afref=7vn49pda4epX&utm_campaign=7vn49pda4epX&aff_fcid=b982854b6b474596858da1ccac84a55c-1758481212264-08942-_oC8eyK7&aff_fsk=_oC8eyK7&aff_platform=api-new-link-generate&sk=_oC8eyK7&aff_trace_key=b982854b6b474596858da1ccac84a55c-1758481212264-08942-_oC8eyK7&terminal_id=88bc0b7032054859a494bbf4585492b2&afSmartRedirect=y) |
 | MG90S servo | 2x |  | [Link]() |
 | Self-tapping M2 6mm screws | 4x |  | [Link]() |
 | MG996R servo | 2x |  | [Link]() |
