@@ -18,12 +18,12 @@ We won the **Grand Prize** of **10,000 Baht** 🏆 and will be using it to spons
 
 ## 📐 Design & Engineering
 
-**Captain** went through **three iterations** of designs before settling on the **SCARA arm** concept for its **easy kinematics and tuning**.  
+We went through **three iterations** of designs before settling on the **SCARA arm** concept for its **easy kinematics and tuning**.  
 This proved extremely advantageous, as no other teams used the SCARA arm design.  
 
 We even saw **five teams** from different schools using the same competitive design and code — which we were able to outperform.
 
-Here, I’ve published the **Fusion 360** and **STEP** files in the hope that someone will improve upon my designs further.
+We published the **Fusion 360** and **STEP** files in the hope that someone will improve upon my designs further.
 
 ---
 
@@ -49,7 +49,7 @@ Here, I’ve published the **Fusion 360** and **STEP** files in the hope that so
 
 - Us choosing an **uncommon but effective mechanical design** gave our team a major competitive advantage.
 - Iterating **multiple times before the event** allowed for better mechanical reliability and proof testing.
-- In competition, **not being the fastest might make you lose sometimes, but being unrealiable will make you lose every time.**
+- In competition, **Make sure to time manage so you don't end up sleeping 2hrs per day**
 
 ---
 
